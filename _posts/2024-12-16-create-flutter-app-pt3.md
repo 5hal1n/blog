@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flutterでアプリ作ってみたPt3"
-date: 2024-12-16 00:00:00 +0900
+date: 2024-12-15 00:21:50 +0900
 categories: car
 ---
 
