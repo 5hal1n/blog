@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "僕的トレ種目ティア表（Sティアのみ）"
+title: "俺的トレ種目ティア表（Sティアのみ）"
 date: 2024-12-17 00:00:00 +0900
 categories: car
 ---
